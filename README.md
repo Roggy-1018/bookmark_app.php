@@ -36,7 +36,7 @@ CREATE TABLE `bookmarks` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 動作確認
-ブラウザで http://localhost/bookmark_app/ にアクセスし、アプリが表示されればセットアップは完了です。
+ブラウザで http://localhost/bookmark_app.php/ にアクセスし、アプリが表示されればセットアップは完了です。
 
 🚀 本番環境へのデプロイ (さくらサーバー等)
 ファイルのアップロード
